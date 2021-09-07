@@ -12,6 +12,6 @@ cd Metasploit_Termux
 figlet AUTOMETA
 chmod +x metasploit.sh
 figlet AUTOMETA
-./metasploit.sh
+bash metasploit.sh
 chmod +x *
 figlet AUTOMETA
